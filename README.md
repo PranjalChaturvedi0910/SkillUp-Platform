@@ -1,10 +1,10 @@
-# 🚀 SkillUp
+#  SkillUp
 
 A full-stack, peer-to-peer skill-sharing platform built with the MERN stack. SkillUp connects users who want to learn with users who want to teach, featuring profiles, skill listings, and real-time chat.
 
 ---
 
-### ✨ Features
+###  Features
 
 -   **User Authentication:** Secure registration and login with JWT.
 -   **Public Profiles:** Browse user profiles and skills without an account.
@@ -14,14 +14,14 @@ A full-stack, peer-to-peer skill-sharing platform built with the MERN stack. Ski
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 -   **Frontend:** React, React Router, Chakra UI, Socket.IO Client, Axios
 -   **Backend:** Node.js, Express.js, MongoDB, Mongoose, Socket.IO, JWT, bcryptjs
 
 ---
 
-### ⚙️ Local Setup & Installation
+###  Local Setup & Installation
 
 #### 1. Clone the Repository
 ```sh
@@ -66,6 +66,6 @@ Your frontend will open at `http://localhost:3000`.
 
 ---
 
-### 👤 Author
+###  Author
 
--   **[Your Name]** - [GitHub Profile](https://github.com/YOUR_USERNAME)
+-   **[Pranjal Chaturvedi]** - [GitHub Profile](https://github.com/PranjalChaturvedi0910)
